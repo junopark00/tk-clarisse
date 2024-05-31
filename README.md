@@ -21,6 +21,7 @@ By using this toolkit, users can easily manage assets, publish work, and track p
 
 ## Environments
 `tk-clarisse` has been tested in this environment:
+- CentOS 7
 - Shotgrid Desktop App 1.8.0
 - clarisse 5.0.11
   - clarisse 5.0.11 provides python2 and python3, this code was written for python3.
